@@ -1,8 +1,9 @@
-# Voice Assistant 🤖
+# Voice Assistant 
+
 
 A Python-based voice assistant with Telugu language support.
 
-## Features 🎯
+## Features 
 - Telugu voice recognition with wake word "venkat"
 - English voice commands for YouTube and Google
 - Text-to-speech in Telugu
@@ -10,7 +11,7 @@ A Python-based voice assistant with Telugu language support.
 - Google search
 - Time telling
 
-## Commands 🗣️
+## Commands 
 - **"venkat time"** - Get current time
 - **"venkat youtube"** - Play YouTube videos
 - **"venkat google"** - Search on Google  
