@@ -15,15 +15,15 @@ A Python-based voice assistant with Telugu language support.
 - **"venkat youtube"** - Play YouTube videos
 - **"venkat google"** - Search on Google  
 - **"venkat stop"** - Exit assistant
-Libraries:
-pip install speechrecognition  # Voice recognition
-pip install pygame            # Audio playback
-pip install gtts             # Text-to-speech
-pip install pywhatkit        # YouTube & Google integration
-pip install pyaudio          # Microphone access
-If pyaudio gives errors, use this instead:
-pip install pipwin
-pipwin install pyaudio
+#### Libraries:
+- pip install speechrecognition  # Voice recognition
+- pip install pygame            # Audio playback
+- pip install gtts             # Text-to-speech
+- pip install pywhatkit        # YouTube & Google integration
+- pip install pyaudio          # Microphone access
+If pyaudio gives errors, use this instead:<br>
+- pip install pipwin
+- pipwin install pyaudio
 
 
 
